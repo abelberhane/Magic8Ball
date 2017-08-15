@@ -1,0 +1,18 @@
+c:\users\aberhane\documents\visual studio 2017\Projects\Magic8Ball\Magic8Ball\bin\Debug\Magic8Ball.exe.config
+c:\users\aberhane\documents\visual studio 2017\Projects\Magic8Ball\Magic8Ball\bin\Debug\Magic8Ball.exe
+c:\users\aberhane\documents\visual studio 2017\Projects\Magic8Ball\Magic8Ball\bin\Debug\Magic8Ball.pdb
+c:\users\aberhane\documents\visual studio 2017\Projects\Magic8Ball\Magic8Ball\obj\Debug\Magic8Ball.csprojResolveAssemblyReference.cache
+c:\users\aberhane\documents\visual studio 2017\Projects\Magic8Ball\Magic8Ball\obj\Debug\Magic8Ball.Form1.resources
+c:\users\aberhane\documents\visual studio 2017\Projects\Magic8Ball\Magic8Ball\obj\Debug\Magic8Ball.Properties.Resources.resources
+c:\users\aberhane\documents\visual studio 2017\Projects\Magic8Ball\Magic8Ball\obj\Debug\Magic8Ball.csproj.GenerateResource.Cache
+c:\users\aberhane\documents\visual studio 2017\Projects\Magic8Ball\Magic8Ball\obj\Debug\Magic8Ball.exe
+c:\users\aberhane\documents\visual studio 2017\Projects\Magic8Ball\Magic8Ball\obj\Debug\Magic8Ball.pdb
+C:\Users\aberhane\Desktop\Magic8Ball\Magic8Ball\bin\Debug\Magic8Ball.exe.config
+C:\Users\aberhane\Desktop\Magic8Ball\Magic8Ball\bin\Debug\Magic8Ball.exe
+C:\Users\aberhane\Desktop\Magic8Ball\Magic8Ball\bin\Debug\Magic8Ball.pdb
+C:\Users\aberhane\Desktop\Magic8Ball\Magic8Ball\obj\Debug\Magic8Ball.csprojResolveAssemblyReference.cache
+C:\Users\aberhane\Desktop\Magic8Ball\Magic8Ball\obj\Debug\Magic8Ball.Form1.resources
+C:\Users\aberhane\Desktop\Magic8Ball\Magic8Ball\obj\Debug\Magic8Ball.Properties.Resources.resources
+C:\Users\aberhane\Desktop\Magic8Ball\Magic8Ball\obj\Debug\Magic8Ball.csproj.GenerateResource.Cache
+C:\Users\aberhane\Desktop\Magic8Ball\Magic8Ball\obj\Debug\Magic8Ball.exe
+C:\Users\aberhane\Desktop\Magic8Ball\Magic8Ball\obj\Debug\Magic8Ball.pdb
